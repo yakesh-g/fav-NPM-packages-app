@@ -1,0 +1,15 @@
+body {
+  margin:100;
+  background-color: #034a3d;
+  color: rgba(24, 4, 50, 0.732);
+  padding: 10px 10px 10px 20px;
+  border: none;
+  font-family: 'Roboto';
+  
+}
+.app-container {
+  width: 700px;
+  height: 650px;
+  background-color: #9f3f3f;
+  font-family: Arial, sans-serif;
+}
